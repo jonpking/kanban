@@ -1,0 +1,8 @@
+.lane {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+    border: 1px solid blue;
+    padding: 15px;
+}
